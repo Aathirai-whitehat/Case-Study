@@ -1,0 +1,16 @@
+body{
+    background:linear-gradient(#dee75a,#f89f8f,#ee5c8d,#f6cc69,#d66ff0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: mediumvioletred;
+}
+
+#image{
+    width: 200px;
+    height: 200px;
+}
+
+#imageheading{
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+}
